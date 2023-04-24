@@ -1,4 +1,4 @@
-# Depth_Estimation_Project
+# VCCV Depth Estimation Project
 Exploration of Depth Estimation Techniques: Monocular Depth Estimation with pretrained MobileNetV2
 This project implements a deep learning neural network model to generate a depth image from RGB image. The model used has a encoder-decoder architecture. We used a pretrained MobileNet for image classification task on the ImageNet. The decoder is several upsampling convolution layers. 
 
